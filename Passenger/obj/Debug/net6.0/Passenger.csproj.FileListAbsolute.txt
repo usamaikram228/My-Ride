@@ -1,0 +1,12 @@
+F:\Semester6\Software Development\Homework#1\Passenger\bin\Debug\net6.0\Passenger.deps.json
+F:\Semester6\Software Development\Homework#1\Passenger\bin\Debug\net6.0\Passenger.dll
+F:\Semester6\Software Development\Homework#1\Passenger\bin\Debug\net6.0\Passenger.pdb
+F:\Semester6\Software Development\Homework#1\Passenger\obj\Debug\net6.0\Passenger.csproj.AssemblyReference.cache
+F:\Semester6\Software Development\Homework#1\Passenger\obj\Debug\net6.0\Passenger.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semester6\Software Development\Homework#1\Passenger\obj\Debug\net6.0\Passenger.AssemblyInfoInputs.cache
+F:\Semester6\Software Development\Homework#1\Passenger\obj\Debug\net6.0\Passenger.AssemblyInfo.cs
+F:\Semester6\Software Development\Homework#1\Passenger\obj\Debug\net6.0\Passenger.csproj.CoreCompileInputs.cache
+F:\Semester6\Software Development\Homework#1\Passenger\obj\Debug\net6.0\Passenger.dll
+F:\Semester6\Software Development\Homework#1\Passenger\obj\Debug\net6.0\refint\Passenger.dll
+F:\Semester6\Software Development\Homework#1\Passenger\obj\Debug\net6.0\Passenger.pdb
+F:\Semester6\Software Development\Homework#1\Passenger\obj\Debug\net6.0\ref\Passenger.dll
